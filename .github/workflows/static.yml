@@ -28,6 +28,7 @@ jobs:
           cp CS3TM-CW-FINAL.pdf dist/
           cp CS3TM-CW-NB.html dist/
           cp CS3TM-CW-NB.ipynb dist/
+          cp CS3TM-CW-NB.pdf dist/
 
       - uses: wranders/markdown-to-pages-action@v1
         with:
